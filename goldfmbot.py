@@ -35,10 +35,6 @@ discord.opus.load_opus(
 )
 
 
-
-# MTU0MDQ4MzAzMDI0NDkyNTUwMA.GGYdZ3.YCjvK6N3FoIZr1e_vvVrMZ0JRcEAs2A4Afe7SU GoldFm
-# MTUxNTM1Mjc0MTc4NDk3NzU5OA.GsYOVF.Nwttcri3wrKfkK1jQxYlxXAF4C0sQQ88QmEblU VLK
-# yes I know you warned me before, but dont worry, these tokens are very old and not used. I am Hiding my real token in a seperate file.
 Radio_URL = "https://stream.goldfm.lt/goldfm.aac"
 # https://stream.goldfm.lt/goldfm.aac
 # https://ice2.powerhitradio.lt/PHR_AAC
