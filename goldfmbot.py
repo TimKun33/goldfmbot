@@ -603,11 +603,6 @@ async def play_station(ctx, stream_url):
 
 
 
-
-
-
-TOKEN = "MTU0MDQ4MzAzMDI0NDkyNTUwMA.GCC7qM.l8mNYfWb-_vBHAfJ9pRH-vAP9ol0PxJbegfeLg"
-
 bot.run(TOKEN)
 
 
